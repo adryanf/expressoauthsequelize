@@ -1,4 +1,4 @@
-# expressoauthsequelize
+# Express Oauth2 Sequelize
 Node Js / Express application
 
 oauth2 Implementation using oauth2orize
