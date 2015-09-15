@@ -1,0 +1,31 @@
+{
+  "name": "expressoauthapi",
+  "version": "0.0.1",
+  "author": {
+    "name": "Adrian Furculita",
+    "url": "http://adriangabriel.apphb.com/"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.13.3",
+    "config": "^1.16.0",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "morgan": "^1.6.1",
+    "oauth2orize": "^1.0.1",
+    "passport": "^0.3.0",
+    "passport-http": "^0.3.0",
+    "passport-http-bearer": "^1.0.1",
+    "passport-oauth2-client-password": "^0.1.2",
+    "pg": "^4.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.7.1",
+    "sequelize-cli": "^1.9.1",
+    "step": "0.0.6"
+  },
+  "engines": {
+    "node": "0.6.20",
+    "iisnode": "0.1.21"
+  }
+}
